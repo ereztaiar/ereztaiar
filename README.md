@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/erez-taiar/">
-  <img src="./banner.svg?v=1" width="100%" alt="Taiar Erez — Full-Stack Developer & Data Engineer · AI First" />
+  <img src="./banner.svg?v=2" width="100%" alt="Taiar Erez — Full-Stack Developer & Data Engineer · AI First" />
 </a>
 
 <p>
