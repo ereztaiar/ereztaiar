@@ -1,16 +1,13 @@
-## Hi there 👋
+<a href="https://www.linkedin.com/in/erez-taiar/">
+  <img src="./banner.svg" width="100%" alt="Taiar Erez — Full-Stack Developer & Data Engineer · AI First" />
+</a>
 
-<!--
-**ereztaiar/ereztaiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://www.linkedin.com/in/erez-taiar/"><img src="https://img.shields.io/badge/LinkedIn-erez--taiar-1d2d3d?style=flat-square&logo=linkedin&logoColor=f2f2f3&labelColor=5980a6" alt="LinkedIn" /></a>
+</p>
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack developer and data engineer working AI-first — building agent orchestration (MCP, A2A, Agenter) and the data pipelines behind it.
+
+**Stack:** React · Node.js · Go · Python · ETL & BI
